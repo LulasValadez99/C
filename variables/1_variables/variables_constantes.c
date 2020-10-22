@@ -3,7 +3,7 @@
 
 int main()
 {
-	const int constante=32;
+	const int constante=10;
 	int variable=12;
 	
 	printf("Valor de constante:%d\n", constante);
@@ -14,7 +14,7 @@ int main()
 
 	//constante=10;
 	variable=0;
-	#define num 300
+	//define num 300
 		
 	//printf("Nuevo valor de constante:%d\n", constante);
 	printf("Nuevo valor de variable:%d\n", variable);
